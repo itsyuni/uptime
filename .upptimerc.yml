@@ -16,7 +16,7 @@ sites:
   - name: Paralone Media – OAuth Workspace
     url: https://auth.paralonemedia.com
   - name: Wikkeo.com – optoviy, suka, marketplace))
-    url: https://wikke.com
+    url: https://wikkeo.com
 
 
 status-website:
