@@ -13,6 +13,8 @@ sites:
     url: https://my.paralonemedia.com
   - name: Paralone Media – API Workspace
     url: https://api.paralonemedia.com
+  - name: Paralone Media – OAuth Workspace
+    url: https://auth.paralonemedia.com/login?next=https://my.paralonemedia.com/account/oauth-login
 
 
 
