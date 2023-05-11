@@ -15,8 +15,6 @@ sites:
     url: https://api.paralonemedia.com
   - name: Paralone Media – OAuth Workspace
     url: https://auth.paralonemedia.com/login?next=https://my.paralonemedia.com/account/oauth-login
-  - name: Wikkeo – Optoviy, syka, marketplace))
-    url: https://wikkeo.com/category/footwear
 
 
 
