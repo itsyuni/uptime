@@ -1,7 +1,7 @@
 url: https://auth.paralonemedia.com/login?next=https://my.paralonemedia.com/account/oauth-login
-status: down
-code: 404
-responseTime: 256
-lastUpdated: 2023-06-24T23:11:16.098Z
+status: up
+code: 200
+responseTime: 582
+lastUpdated: 2023-06-25T18:51:36.425Z
 startTime: Fri May 05 2023 18:24:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
